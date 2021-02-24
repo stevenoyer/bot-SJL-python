@@ -9,7 +9,7 @@ Ce bot discord a été entièrement développé avec Python 3 et la dernière mi
 
 Voici la documentation de discord python : https://discordpy.readthedocs.io/en/latest/index.html
 
-# ----------------------------------------------------------------------------------------------------------- #
+# ------------------------------------------------------------- #
 
 A python bot for a private server.
 
