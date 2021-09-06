@@ -24,4 +24,4 @@ Here is the python discord documentation: https://discordpy.readthedocs.io/en/la
 
 # ------------------------ #
 
-Steven Oyer, Web developer
+Steven Oyer
